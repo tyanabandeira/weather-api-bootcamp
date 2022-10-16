@@ -1,0 +1,71 @@
+h1{
+  font-family: Arial, Helvetica, sans-serifal;
+  font-size: 4rem;
+  text-align: center;
+  color:white;
+}
+body{
+  background: #ABE1FB;
+}
+
+h4{
+  color:white;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+input{
+  width:15%;
+  width: 15%;
+  margin-left: 42%;
+  display: flex;
+  margin-bottom: 0.5%;
+  padding: 0.5%;
+  border:solid 2px white;
+  box-shadow: 0px 0px 2px 2px white;
+}
+input:hover{
+  width:15%;
+  width: 15%;
+  margin-left: 42%;
+  display: flex;
+  margin-bottom: 0.5%;
+  padding: 0.5%;
+  border:solid 2px white;
+  box-shadow: 0px 0px 2px 2px white;
+}
+
+#button{
+  text-align: center;
+  text-align: center;
+    margin-left: 43.2%;
+    padding: 0.5%;
+    width: 14%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    letter-spacing: 2px;
+    color:white;
+    background:  #ABE1FB;
+    border:solid 2px white;
+}
+
+#button:hover{
+  box-shadow: 0px 0px 2px 2px white;
+  text-align: center;
+  text-align: center;
+    margin-left: 43.2%;
+    padding: 0.5%;
+    width: 14%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    letter-spacing: 2px;
+    color:white;
+    background:  #ABE1FB;
+    border:solid 2px white;
+}
+
+h2{
+  color:white;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center ;
+}
